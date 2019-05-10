@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personalized Greetings</string>
+    <string name="introText">Enter the recepient\'s info:</string>
+    <string name="first_name">First Name</string>
+</resources>
